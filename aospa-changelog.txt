@@ -1,0 +1,9 @@
+===== 03.06.2023 =====
+ - Fix OK, Google; Live Captions
+ - Import back Adreno Stack from MIUI.
+ - Add blkio tuning from sunfish
+ - Do not balance MSM_DRM and KGSL-3d0 IRQs.
+ - msm-irqbalance: Restrict interrupts to cores 0 and 1
+ - Enable config_avoidGfxAccel
+ - Offload WM shell to another thread
+======================
