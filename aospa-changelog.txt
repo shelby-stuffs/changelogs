@@ -7,3 +7,11 @@
  - Enable config_avoidGfxAccel
  - Offload WM shell to another thread
 ======================
+
+==== 18.06.2023 =====
+ - Use userspace LMK
+ - Disable alpha compositing in WM
+ - Enable ro.hwui.render_ahead
+ - Import CarrierConfig from device/qcom/common
+ - Import lights hal from CLO/CAF.
+======================
