@@ -15,3 +15,7 @@
  - Import CarrierConfig from device/qcom/common
  - Import lights hal from CLO/CAF.
 ======================
+
+===== 13.07.2023 Official =====
+Improved performance, Implemented Power Off Alarm, Updated GPS stack
+======================
