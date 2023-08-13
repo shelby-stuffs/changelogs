@@ -19,3 +19,7 @@
 ===== 13.07.2023 Official =====
 Improved performance, Implemented Power Off Alarm, Updated GPS stack
 ======================
+
+===== 13.08.2023 Official =====
+Update brightnes values from MIUI.
+======================
